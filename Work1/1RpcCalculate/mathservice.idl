@@ -1,0 +1,10 @@
+[
+ uuid("91B13F11-F2BF-4744-9B1C-EF6A6B9C42DD"), // genurate by GUIDGen.exe
+ version(1.0)
+]
+// Edit by : 2016012915
+interface MathService
+{
+    void math([in, string]const char * data);
+    void ShutDown(void);
+}

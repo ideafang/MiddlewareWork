@@ -1,0 +1,8 @@
+[  
+      implicit_handle(handle_t  MathService_Binding)  
+]  
+// Edit by : 2016012915
+interface MathService
+{
+
+}
